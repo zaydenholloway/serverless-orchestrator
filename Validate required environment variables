@@ -1,0 +1,10 @@
+## Summary
+Introduced environment variable validation during application startup.
+
+## Changes
+- Added validation utility
+- Added descriptive error messages
+- Updated startup workflow
+
+## Testing
+Confirmed application exits correctly when required variables are missing.
